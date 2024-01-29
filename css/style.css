@@ -6,8 +6,12 @@
 h2{
     font-family: 'Rubik Bubbles', system-ui;
     font-size: 8rem;
-    text-align:left;
-    position: fixed;
+    text-align:center;
+
+}
+.navbar{
+    font-family: 'Honk', system-ui;
+    font-size: 2rem;
 }
 
 /* kali */
